@@ -83,6 +83,10 @@
     width: 100%;
     height: 100%;
   }
+  .wh-max {
+    width: 80%;
+    height: 80%;
+  }
   
   .wh-100-60 {
     width: 100%;
